@@ -1,0 +1,17 @@
+﻿  OOP_00_TermProject.cpp
+C:\Users\nerim\source\repos\OOP_00_TermProject\OOP_00_TermProject\OOP_00_TermProject.cpp(52,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nerim\source\repos\OOP_00_TermProject\OOP_00_TermProject\OOP_00_TermProject.cpp(53,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nerim\source\repos\OOP_00_TermProject\OOP_00_TermProject\OOP_00_TermProject.cpp(99,37): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nerim\source\repos\OOP_00_TermProject\OOP_00_TermProject\OOP_00_TermProject.cpp(100,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nerim\source\repos\OOP_00_TermProject\OOP_00_TermProject\OOP_00_TermProject.cpp(116,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nerim\source\repos\OOP_00_TermProject\OOP_00_TermProject\OOP_00_TermProject.cpp(133,24): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nerim\source\repos\OOP_00_TermProject\OOP_00_TermProject\OOP_00_TermProject.cpp(134,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nerim\source\repos\OOP_00_TermProject\OOP_00_TermProject\OOP_00_TermProject.cpp(195,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nerim\source\repos\OOP_00_TermProject\OOP_00_TermProject\OOP_00_TermProject.cpp(196,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nerim\source\repos\OOP_00_TermProject\OOP_00_TermProject\OOP_00_TermProject.cpp(220,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nerim\source\repos\OOP_00_TermProject\OOP_00_TermProject\OOP_00_TermProject.cpp(221,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nerim\source\repos\OOP_00_TermProject\OOP_00_TermProject\OOP_00_TermProject.cpp(239,28): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nerim\source\repos\OOP_00_TermProject\OOP_00_TermProject\OOP_00_TermProject.cpp(240,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nerim\source\repos\OOP_00_TermProject\OOP_00_TermProject\OOP_00_TermProject.cpp(314,25): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nerim\source\repos\OOP_00_TermProject\OOP_00_TermProject\OOP_00_TermProject.cpp(332,25): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+  OOP_00_TermProject.vcxproj -> C:\Users\nerim\source\repos\OOP_00_TermProject\Debug\OOP_00_TermProject.exe
